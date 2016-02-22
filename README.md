@@ -13,4 +13,5 @@ This is how you can contribute to this repository
 ## Deployment
 This is a deployment test.
 
-Test 2.
+## Copyright
+Section here
